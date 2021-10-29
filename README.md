@@ -9,7 +9,7 @@ The main functions written in the file dpll.ml were:
  - The function unitaire : int list list -> int option
  - The function pur : int list list -> int option
  - The function solveur_dpll_rec : int list list -> int list -> int list option
- - The functions pretty_print_* : int list list -> int list -> int list option
+ - The functions pretty_print_* : int list list -> int list -> unit
 
 ## Testing the solver
 
